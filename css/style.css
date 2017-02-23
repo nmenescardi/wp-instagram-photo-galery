@@ -1,0 +1,14 @@
+.wpipg-photo{
+	width: 100%;
+}
+
+.wpipg-photo .photo-col{
+	float: left;
+	width: 30%;
+	padding: 4px;
+	
+}
+
+.wpipg-photo img{
+	width: 30%;
+}
